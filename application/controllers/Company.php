@@ -34,7 +34,7 @@ class Company extends CI_Controller {
         $crud = new grocery_CRUD();
 
         $crud->set_table('company');
-        $crud->columns('id','name','address','email','phone','fax');
+        $crud->columns('company_id','name','address','email','phone','fax');
 
 //        $crud->display_as('salesRepEmployeeNumber','from Employeer')
 //            ->display_as('customerName','Name')

@@ -99,7 +99,7 @@
                             <div class="sec-box">
                                 <a class="closethis">Close</a>
                                 <header>
-                                    <h2 class="heading">Company</h2>
+                                    <h2 class="heading">Staff</h2>
                                 </header>
                                 <div class="contents">
                                     <a class="togglethis">Toggle</a>
